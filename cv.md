@@ -1,7 +1,7 @@
 # Abubakarova Zuhra
 
 ## Contacts
-* Location: Mahackala, Rusia
+* Location: Mahackala, Russia
 * Phone: +79640508250
 * Email: mishayassky@yandex.ru
 * GitHub: porredgi
