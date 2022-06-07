@@ -14,6 +14,9 @@ I'm just student who is looking for himself.
 * CSS
 * C++ (basic)
 
+## Education
+[Веб-разработка для начинающих: HTML и CSS](https://stepik.org/course/38218/syllabus)
+
 ## Languages
 English - A1
 Russian - native speaker
